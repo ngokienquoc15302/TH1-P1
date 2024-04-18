@@ -6,10 +6,11 @@ import Project5 from './Project5';
 import Project6 from './Project6';
 import Project7 from './Project7';
 import Project8 from './Project8';
+import Caculator from './Caculator';
 
 const App = () => {
   return (
-    <Project8 />
+    <Caculator />
   )
 }
 export default App;
